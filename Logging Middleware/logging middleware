@@ -1,0 +1,1 @@
+Log("frontend", "error", "page", "received string,expected bool")
